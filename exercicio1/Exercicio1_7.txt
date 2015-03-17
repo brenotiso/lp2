@@ -1,0 +1,12 @@
+Varia'vel 3 = 7
+Varia'vel 4 =  7.0
+Varia'vel 5 =  7.0
+
+Varia'vel 4 e' menor igual a 10.0
+
+Varia'vel 5 e' menor igual a 10.0
+______________________________________________________________________
+
+A variável 3 é 7 pois ela é int, já a 4 e 5 são 7.0 pois são float. 
+
+Como 7.0 é menor que 10.0 os resultados foram os apresentados. 
