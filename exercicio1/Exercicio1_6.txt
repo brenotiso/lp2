@@ -1,0 +1,9 @@
+No exercício 3 os resultados apresentados foram inteiros pois as variáveis eram inteiras. Já no 4 e 5 os resultados apresentados tinham casas decimais pelo fatos das variáveis suportarem isso. 
+
+Exemplificando:
+
+Soma do exercício 3: 68.
+Soma do exercício 4 e 5: 68.0.
+
+Divisão do exercício 3: 0.0.
+Divisão do exercício 4 e 5: 0.75.
