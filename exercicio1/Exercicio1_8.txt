@@ -1,0 +1,4 @@
+(a) Não se tem ';' após o if
+
+(b) O correto seria:
+    if ( c >= 7)
