@@ -4,19 +4,19 @@ public class Calculadora{
 	int variavel1,variavel2;
 
 	public void soma(){
-		System.out.println("A soma dos dois números é igual a: " + (this.variavel1+variavel2));
+		System.out.println("---A soma dos dois números é igual a: " + (this.variavel1+variavel2));
 	}
 	
 		public void subtracao(){
-		System.out.println("A subtração dos dois números é igual a: " + (this.variavel1-variavel2));
+		System.out.println("---A subtração dos dois números é igual a: " + (this.variavel1-variavel2));
 	}
 
 		public void divisao(){
-		System.out.println("A divisão dos dois números é igual a: " + (this.variavel1/variavel2));
+		System.out.println("---A divisão dos dois números é igual a: " + (this.variavel1/variavel2));
 	}
 
 		public void multiplicacao(){
-		System.out.println("A multiplicação dos dois números é igual a: " + (this.variavel1*variavel2));
+		System.out.println("---A multiplicação dos dois números é igual a: " + (this.variavel1*variavel2));
 	}
 
 
