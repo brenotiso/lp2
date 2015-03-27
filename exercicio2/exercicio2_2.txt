@@ -1,0 +1,1 @@
+A palavra reservada "new" é que aloca memória para que algo seja instanciado. 
