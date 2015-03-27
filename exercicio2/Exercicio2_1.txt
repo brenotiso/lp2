@@ -1,0 +1,7 @@
+Tipo Abstrato de Dados: É um conjunto de dados e operadores, podendo esses serem usados para a manipulação de dados, objetivando reduzir as informações necessárias para programar através da abstração. 
+
+Classe: É um tipo abstrato de dados. 
+
+Objeto: É a materialização de uma classe. 
+
+Mensagens: É o que um objeto troca com um método para que esse realize os comportamentos descritos pela classe.
